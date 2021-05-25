@@ -1,4 +1,4 @@
-# EVMC
+# VVMC
 
 [![chat: on gitter][gitter badge]][Gitter]
 [![readme style: standard][readme style standard badge]][standard readme]
