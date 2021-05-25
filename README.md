@@ -3,7 +3,7 @@
 [![chat: on gitter][gitter badge]][Gitter]
 [![readme style: standard][readme style standard badge]][standard readme]
 
-> Ethereum Client-VM Connector API
+> Vapory Client-VM Connector API
 
 The EVMC is the low-level ABI between Ethereum Virtual Machines (EVMs) and
 Ethereum Clients. On the EVM side it supports classic EVM1 and [ewasm].
